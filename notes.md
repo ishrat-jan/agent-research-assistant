@@ -1,0 +1,3 @@
+- The system instruction changed the style, length and tone of every answer.
+- Temperature controls randomness: 0.0 gives nearly the same answer each run, 1.5 gives more varied wording and more risk of errors.
+- For a research assistant I will use a low temperature (0.0 to 0.3) so answers stay consistent and stick to the sources.
